@@ -1044,14 +1044,14 @@ img {
 .sidebar {
   position: fixed;
   z-index: 9;
-  top: 0;
-  left: -10rem;
+  top: 20;
+  right: -10rem;
   bottom: 0;
   width: 10rem;
   background-color: #f4f4f4;
 }
 .sidebar.on {
-  left: 0;
+  right: 0;
 }
 .navbar-toggle {
   position: absolute;
