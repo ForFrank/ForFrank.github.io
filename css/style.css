@@ -1051,7 +1051,7 @@ img {
   background-color: #f4f4f4;
 }
 .sidebar.on {
-  right: 0;
+  left: 0;
 }
 .navbar-toggle {
   position: absolute;
