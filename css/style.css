@@ -1045,7 +1045,7 @@ img {
   position: fixed;
   z-index: 9;
   top: 0;
-  right: -10rem;
+  left: -10rem;
   bottom: 0;
   width: 10rem;
   background-color: #f4f4f4;
