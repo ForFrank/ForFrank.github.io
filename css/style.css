@@ -1044,8 +1044,8 @@ img {
 .sidebar {
   position: fixed;
   z-index: 9;
-  top: 20;
-  right: -10rem;
+  top: 10;
+  left: 2;
   bottom: 0;
   width: 10rem;
   background-color: #f4f4f4;
